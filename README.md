@@ -12,4 +12,5 @@
 
 <!--- 
 En contrucción...
+Próximamente: Agregar imágenes
 ---> 
