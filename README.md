@@ -2,7 +2,7 @@
 
 - Hi, I'm @nonskilledeveloper
 
-- I'm interested in developing videogames for multiple platforms, iOS and Android apps building and ethical hacking.
+- I'm interested in developing videogames for multiple platforms, iOS and Android apps building and ethical hacking
 
 - I'm currently learning Python, Kotlin, Swift and C#
 
