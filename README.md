@@ -13,5 +13,4 @@
 <!--- 
 En contrucción...
 Próximamente: Agregar imágenes
-Prueba de actualización online-offline
 ---> 
