@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @nonskilledeveloper
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# nonskilledeveloper
 
-<!---
-nonskilledeveloper/nonskilledeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I'm @nonskilledeveloper
+
+- I'm interested in developing videogames for multiple platforms, iOS and Android Apps building, ethical hacking
+
+- I'm currently learning Python, Kotlin, Swift and C#
+
+- I'm looking to collaborate on ...
+
+- How to reach me: nonskilledeveloper@gmail.com
+
+<!--- 
+En contrucción...
+---> 
