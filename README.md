@@ -2,9 +2,9 @@
 
 - Hi, I'm @nonskilledeveloper
 
-- I'm very passionate about Ethical Hacking, i'm interested in developing videogames for multiple platforms and developing apps for iOS and Android
+- I'm very passionate about Ethical Hacking and Programming
 
-- I'm currently learning Python, Go, Kotlin, Swift and C#
+- I'm currently learning Python, Go, Rust and JavaScript
 
 - How to reach me: nonskilledeveloper@gmail.com
 
